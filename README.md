@@ -4,8 +4,6 @@
 
 Ziqian Zhong, Aashiq Muhamed, Mona T. Diab, Virginia Smith, Aditi Raghunathan
 
-[📝 Arxiv](https://arxiv.org/abs/2604.11061) | [🖇️ Livepaper](https://ar-forum.github.io/Pando/livepaper.html) | [📦 Dataset](https://huggingface.co/pando-dataset) | [🌐 Website](https://ar-forum.github.io/Pando/)
-
 Open AI runs on trust: you download a stranger's model and build on it. But a
 model is a black box of numbers, and a poisoned one looks identical to a clean
 one until the day it fails. A single tampered model, passed from project to
